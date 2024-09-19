@@ -16,8 +16,8 @@ const AppContent: React.FC = () => {
             <ThemeSwitcher />
           </div>
           <img src="https://media.licdn.com/dms/image/v2/D4D03AQGyeqikXnPMQA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701646121939?e=1732147200&v=beta&t=EzszqzIqAkXXWNNEqcfMoTjhcgYUfd3MuASMQEtBZkU" alt="Profile" className="profile-picture" />
-          <h1>Matias Mortara</h1>
-          <h2>Software Solution Architect Cybersecurity Specialist</h2>
+          <h1>Adriana Martínez</h1>
+          <h2>Social Media Specialist Community Manager</h2>
           <LinkHub />
         </div>
       </Card>
